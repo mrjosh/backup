@@ -4,7 +4,7 @@
 * dotenv
 * git
 
-## Install with composer
+## Install with bundler
 You can install this requirements throw the [Bundler](https://bundler.io/) by running:
 
 ```
